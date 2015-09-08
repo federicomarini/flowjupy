@@ -1,0 +1,2 @@
+install.packages(c('evaluate','uuid','jsonlite','base64enc','digest'),repos='http://cran.us.r-project.org')
+install.packages(c('rzmq','repr','IRkernel','IRdisplay'),repos = c('http://irkernel.github.io/'))
